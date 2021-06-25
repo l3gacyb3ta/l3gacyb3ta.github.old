@@ -1,6 +1,6 @@
 ---
 title: Threadripper ad
-date: 2020-04-21 21:43:10
+date: 2020-04-21
 tags: ["ad", "blender", "3d"]
 ---
 

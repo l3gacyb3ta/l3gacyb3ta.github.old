@@ -1,6 +1,6 @@
 ---
 title: Super16, a silly ISA
-date: 2021-05-13T15:53:43.000+00:00
+date: 2021-05-13
 tags: ["cpu", "emulator", "ISA", "S16"]
 
 ---

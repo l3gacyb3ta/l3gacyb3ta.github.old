@@ -1,6 +1,6 @@
 ---
 title: motion tracking
-date: 2020-06-24 21:46:52
+date: 2020-06-24
 tags: ["title: motion tracking"]
 ---
 

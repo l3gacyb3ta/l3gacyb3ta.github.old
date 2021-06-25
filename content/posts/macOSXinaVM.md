@@ -1,7 +1,6 @@
-
 ---
 title: mac OS X .... in a VM‽
-date: 2020-12-22 22:45:47
+date: 2020-12-22
 tags: ["macOS", "VM", "Virtualization"]
 ---
 

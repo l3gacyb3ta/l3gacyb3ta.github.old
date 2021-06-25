@@ -1,7 +1,6 @@
 ---
 title: Beach
-date: 2020-07-20 21:40:04
-
+date: 2020-07-20 
 tags: ["blender", "3d"]
 ---
 # First blender project!

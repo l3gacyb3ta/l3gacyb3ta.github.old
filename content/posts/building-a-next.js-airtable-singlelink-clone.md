@@ -1,7 +1,7 @@
 ---
-tags: ["singlelink", "airtable", "nextjs"]
 title: Building a Next.js + Airtable singlelink clone.
 date: 2021-05-15
+tags: ["singlelink", "airtable", "nextjs"]
 ---
 # Singlelink cloned
 

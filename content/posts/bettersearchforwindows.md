@@ -1,6 +1,6 @@
 ---
 title: better search for windows
-date: 2021-01-20T22:49:27.000+00:00
+date: 2021-01-20
 tags: ["windows", "search", "Python", "SQL", "tinydb"]
 ---
 The Windows 10 search is _slow_ and resource intensive.  So I decided to build a new one!  
