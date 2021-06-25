@@ -1,7 +1,6 @@
 ---
 title: "XKCD Explainer Button"
 date: 2021-04-23
-tags: ["Firefox", "js", "extension"]
 ---
   
 This project was just a little side-thing to learn how extensions.  

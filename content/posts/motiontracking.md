@@ -1,7 +1,6 @@
 ---
 title: motion tracking
 date: 2020-06-24
-tags: ["title: motion tracking"]
 ---
 
 1. I tracked approx 20 points in the image.  

@@ -1,7 +1,6 @@
 ---
 title: mac OS X .... in a VM‽
 date: 2020-12-22
-tags: ["macOS", "VM", "Virtualization"]
 ---
 
 ![Mac](https://i.ibb.co/5LW5Bkd/Mac.png)

@@ -1,7 +1,6 @@
 ---
 title: Got this working on github pages!
 date: 2021-04-13
-tags: ["dns", "ghpages", "github"]
 ---
 
 

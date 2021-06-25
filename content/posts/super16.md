@@ -1,8 +1,6 @@
 ---
 title: Super16, a silly ISA
 date: 2021-05-13
-tags: ["cpu", "emulator", "ISA", "S16"]
-
 ---
 # Super16... What is it?
 Super16 is my custom architecture for a theoretical CPU. It's on [github](https://github.com/l3gacyb3ta/super16)! 

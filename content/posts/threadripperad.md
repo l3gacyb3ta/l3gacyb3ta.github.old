@@ -1,7 +1,6 @@
 ---
 title: Threadripper ad
 date: 2020-04-21
-tags: ["ad", "blender", "3d"]
 ---
 
 1. First I modeled the Treadripper CPU from AMD.  

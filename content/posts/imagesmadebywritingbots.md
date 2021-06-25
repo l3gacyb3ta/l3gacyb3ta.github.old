@@ -1,7 +1,6 @@
 ---
 title: Images made by writing bots?
 date: 2021-02-18
-tags: ["AI"]
 ---
 
 ~Soo~ today we have something a tad bit more complicated, so first I\'ll introduce a few concepts and tools:

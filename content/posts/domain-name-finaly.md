@@ -1,8 +1,6 @@
 ---
 title: Domain name, finally
 date: 2021-04-14
-tags: ["dns", "website"]
-
 ---
 
 So, I finally got [l3gacy.tk](l3gacy.tk) linked to the github pages! The process was a bit confusing, probably because I've never done something like this before, but here's the steps I took. 
