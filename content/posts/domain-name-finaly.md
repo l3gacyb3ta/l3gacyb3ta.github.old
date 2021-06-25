@@ -1,4 +1,3 @@
-
 ---
 title: Domain name, finally
 date: 2021-04-14 11:05:28

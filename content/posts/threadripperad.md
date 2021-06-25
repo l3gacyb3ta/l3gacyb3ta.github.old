@@ -1,4 +1,3 @@
-
 ---
 title: Threadripper ad
 date: 2020-04-21 21:43:10

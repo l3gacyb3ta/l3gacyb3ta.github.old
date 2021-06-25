@@ -1,4 +1,3 @@
-
 ---
 title: Images made by writing bots?
 date: 2021-02-18 00:04:50

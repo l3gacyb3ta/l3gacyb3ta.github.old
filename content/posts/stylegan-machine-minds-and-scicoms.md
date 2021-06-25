@@ -1,4 +1,3 @@
-
 ---
 title: Stylegan2, Machine Minds, & Science Communication
 date: 2021-04-16 18:42:52
