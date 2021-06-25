@@ -1,0 +1,60 @@
+- name: Monis
+  expand: false
+  short_desc: a hyper-fast light-weight SSG written in Crystal
+  links:
+    - link_name: docs
+      link: https://raleighwi.se/monis
+    - link_name: github
+      link: https://github.com/l3gacyb3ta/monis
+  desc:
+    Monis is a hyper-fast light-weight SSG written in Crystal. I used this project to learn about SSGs and how they work, as well as to work with Crystal some more. It is hyper-fast, thanks to the amazing Crystal compiler, under my benchmarks (rendering the readme a 100 times), a large site can be generated in less then 25ms! I also got to use Makefiles for the first time with this project.
+  techlist:
+    - Crystal
+    - Makefiles
+    - Jinja
+    - Markdown
+    - Shards
+  lang_ratios:
+    - name: Crystal
+      percent: 80.8
+    - name: Jinja
+      percent: 11.6
+    - name: Makefile
+      percent: 4.8
+    - name: CSS
+      percent: 2.8
+
+- name: Super16
+  expand: false
+  short_desc: a strange little 16bit ISA/Architecture
+  links:
+    - link_name: github
+      link: https://github.com/l3gacyb3ta/l3g
+  desc:
+    Super16 is my custom architechture for a theoretical CPU. I have designed the thing from the ground up, so here's an overview; text-out support using ascii chars, 7 16-bit registers, binary compilation, 16-bit data on every instruction, built-in screen drawing (pixel by pixel). In the super16 ISA one instruction is composed of 32 bits, making up 3 catagories; Opcode, Register and data. The opcode is two hexadecimal digits, the register is another two, and the data is a 4-digit hexadecimal number split into two two-digit numbers. 
+  techlist:
+    - Python
+    - Assembly
+    - Unix shell
+  lang_ratios:
+    - name: Python
+      percent: 91
+    - name: Assembly
+      percent: 8.7
+    - name: Shell
+      percent: 0.3
+
+- name: l3g
+  expand: false
+  short_desc: a productivity tool with speed in mind
+  links:
+    - link_name: github
+      link: https://github.com/l3gacyb3ta/l3g
+  desc:
+    L3g was at first a project to learn Crystal, a compiled language similar to Ruby, but it became much more. l3g can create projects for me, write licenses, auto commit and push, install itself, and much more. It has significantly sped up my current workflow.
+  techlist:
+    - Crystal
+    - Unix
+  lang_ratios:
+    - name: Crystal
+      percent: 100

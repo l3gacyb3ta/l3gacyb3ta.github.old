@@ -1,0 +1,16 @@
+intro:
+- link_name: about
+  link: '#about'
+- link_name: prev
+  link: '#experience'
+- link_name: projects
+  link: '#projects'
+- link_name: blog
+  link: /posts
+footer:
+- link_name: ramblings
+  link: /ramblings
+- link_name: source
+  link: https://github.com/l3gacyb3ta/l3gacyb3ta.github.io
+- link_name: twitter
+  link: https://twitter.com/l3gacyb3ta

@@ -1,0 +1,13 @@
+<footer>
+    <p>made by Raleigh Wise.<br />
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License"
+                style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC by-nc-sa 4.0 </a>
+    </p>
+    {{ if not .IsHome }}
+    <a href="/">home</a>
+    {{end}}
+    {{- range $.Site.Data.links.footer -}}
+    <a href="{{.link}}">{{.link_name}}</a>
+    {{- end -}}
+</footer>

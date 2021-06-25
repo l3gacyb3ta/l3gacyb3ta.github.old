@@ -1,0 +1,34 @@
+{{define "head"}}
+{{ partial "blog/head.html" . }}
+{{end}}
+
+{{define "main"}}
+<div id="contentWrapper">
+    {{ partial "blog/header.html" . }}
+    <article>
+        <div id="postTitle" class="desc">
+            <h1>{{ .Title }}</h1>
+        </div>
+        <div id="mainText">
+            {{- .Content -}}
+        </div>
+
+        <div>
+            <hr>
+            <a href="/newsletters">← jump back up the path ladder</a>
+        </div>
+    </article>
+
+    <!-- Contact Info -->
+    <footer>
+        {{partial "footer/footer.html" .}}
+    </footer>
+</div>
+
+{{- with resources.Get "darkmode.js" | minify -}}
+<script>
+  {{.Content | safeJS }}
+</script>
+{{- end -}}
+
+{{end}}

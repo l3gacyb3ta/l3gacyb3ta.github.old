@@ -1,0 +1,24 @@
+baseURL = "https://raleighwi.se/"
+languageCode = "en-us"
+pygmentsUseClasses = true
+ignoreFiles = ["/content/templates/*"]
+
+[params]
+  headline = "raleighwi.se"
+  dateFormat = "2006-01-02"
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
+    startLevel = 2
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    style = "dracula"
+    tabWidth = 4

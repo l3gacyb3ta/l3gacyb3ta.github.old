@@ -1,0 +1,20 @@
+- name: CrossFit The Forge
+  expand: false
+  title: Web dev & AV setup
+  img: forge.png
+  year: 2021
+  things: >
+    I approched the designer of the redesign for the website, after I learned that the gym was rebranding.
+    Then, the head coach asked me to make the backend easier to use than the current website, which required you to manually edit the HTML.
+    So I built the website off of Airtable so that she could just change any little detail.
+  techlist:
+    - NextJS
+    - Airtable
+    - Vercel
+  lang_ratios:
+    - name: NextJS
+      percent: 60
+    - name: Airtable
+      percent: 20
+    - name: Vercel
+      percent: 20

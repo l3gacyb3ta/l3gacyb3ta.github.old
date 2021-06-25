@@ -1,0 +1,53 @@
+<head>
+  <!-- Meta tags -->
+  <meta charset="UTF-8">
+  <meta name="description" content="{{$.Site.Data.me.description}}">
+  <title>{{$.Site.Data.me.page_title}}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/png" href="/res/logo.png" />
+
+  <!-- CSS Stylesheets and Fonts -->
+  {{if $.Site.Data.aos.enabled -}}
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  {{- end}}
+
+  <!-- Social Tags -->
+  <meta property="og:url" content="https://raleighwi.se" />
+  <meta property="og:title" content="{{$.Site.Data.me.page_title}}" />
+  <meta property="og:description" content="{{$.Site.Data.me.description}}" />
+  <meta property="og:image" content="" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:creator" content="@_jzhao">
+  <meta name="twitter:title" content="{{$.Site.Data.me.page_title}}">
+  <meta name="twitter:description" content="{{$.Site.Data.me.description}}" />
+  <meta name="twitter:image" content="" />
+
+  <!-- nonJS -->
+  <noscript>
+    <style type="text/css">
+      [data-aos] {
+        opacity: 1 !important;
+        transform: translate(0) scale(1) !important;
+      }
+
+      h1 > span.word.col1 {
+        opacity: 1;
+      }
+
+      .accordion-panel {
+        display: block !important;
+      }
+    </style>
+  </noscript>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">
+  {{ $css := slice "base.scss" "style.scss" "sidebar.scss" "lite.scss" "smaller-screens.scss" "langbars.scss" "proj.scss" "mobile.scss" "darkmode.scss" "syntax.css"}}
+  {{range $css}}
+    {{$sass := resources.Get . | resources.ToCSS }}
+    {{with $sass | minify}}
+    <style>
+      {{.Content | safeCSS}}
+    </style>
+    {{end}}
+  {{end}}
+</head>

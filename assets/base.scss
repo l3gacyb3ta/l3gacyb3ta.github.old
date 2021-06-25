@@ -1,0 +1,150 @@
+:root {
+  --light: #faf0f0;
+  --dark: #1d1731;
+  --navy: #29516b;
+  --olive: #8cb6ab;
+  --visited: #b1c9d8;
+  --salmon: #dd7170;
+  --gray: #4e4c4c;
+  --lightgray: #f0f0f0;
+  --outlinegray: #dadada;
+  --lt-colours-light: var(--light) !important;
+  --lt-colours-lightgray: var(--lightgray) !important;
+  --lt-colours-dark: var(--navy) !important;
+  --lt-colours-secondary: var(--olive) !important;
+  --lt-colours-gray: var(--outlinegray) !important;
+
+  --invert-filter: invert(0) hue-rotate(0);
+}
+
+h1, h2, h3, h4, ol, ul, thead {
+  font-family: Inter;
+  color: var(--dark)
+}
+
+p, ul {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: var(--gray);
+}
+
+pre {
+  font-family: 'Fira Code';
+  padding: 0.75em;
+  border-radius: 3px;
+  overflow-x: scroll;
+}
+
+code {
+  font-family: 'Fira Code';
+  font-size: 0.85em;
+  padding: 0.15em 0.3em;
+  border-radius: 5px;
+  background: var(--lightgray);
+}
+
+[saved-theme="dark"] {
+  --light: #1e1e21 !important;
+  --dark: #fbfffe !important;
+  --navy: #75a1bf !important;
+  --visited: #4a575e !important;
+  --olive: #84a59d !important;
+  --salmon: #f58382 !important;
+  --gray: #d4d4d4 !important;
+  --lightgray: #292633 !important;
+  --outlinegray: #343434 !important;
+
+  --invert-filter: invert(97%) hue-rotate(190deg) grayscale(0.4) contrast(90%) brightness(1.2) !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  background-color: var(--light);
+}
+
+.hover {
+  color: var(--dark);
+  text-decoration: none;
+  opacity: 0.6;
+  z-index: 1;
+  transition: 200ms;
+
+  &::after {
+    transition: 200ms;
+    height: 18px;
+    content: "";
+    position: absolute;
+    background-color: var(--olive);
+    opacity: 0.5;
+    z-index: -1;
+    width: 0%;
+    right: 5px;
+    bottom: 5px;
+  }
+}
+
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+footer {
+  margin-top: 4em;
+
+  & > a {
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 1em;
+    color: var(--navy);
+    padding: 0 0.5em 3em 0.5em;
+  }
+}
+
+#newsletter {
+  margin: 2em 0;
+
+  & > input {
+    padding: 0.7em 1em;
+    border-radius: 4px;
+  }
+
+  & > input[type="submit"] {
+    border: none;
+    color: var(--light);
+    background-color: var(--navy);
+    cursor: pointer;
+  }
+
+  & > input[type="email"] {
+    background-color: var(--light);
+    border: 1px solid var(--outlinegray);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+}
+
+hr {
+  width: 25%;
+  margin: 4em auto;
+  height: 2px;
+  border-radius: 1px;
+  border-width: 0;
+  color: var(--dark);
+  background-color: var(--dark);
+}
+
+// internal link
+a[href^="/thoughts"], a[href^="/books"], a[href^="/classes"] {
+  text-decoration: none;
+  background-color: #afbfc955;
+  padding: 0 0.2em;
+  border-radius: 3px;
+}
