@@ -11,3 +11,7 @@ Medicines like Fluoxetine (Prozac) are "Selective Serotonin Reuptake Inhibitors"
 Chemicals like THC are called _neuromodulators_, these affect how many neurotransmitters get emitted by the axons, this changing the functioning of the brain.
 
 ## Senses & Perception
+* ### Vision
+Visual processing acconts for about 30% of the cerebral cortex! That's way more than other senses. We also know more about cision than other senses. The retina has built in processing, sort of like modern CMOS chips. 
+Human eyes have about 125 million photoreceptors, if each photoreceptor was a pixel, then that's a resolution 3 times larger than 8k!
+Interetingly, the eyes are split down the center into right and left visual fields, the left visual field goes to the right hemisphere, and vice verca. 

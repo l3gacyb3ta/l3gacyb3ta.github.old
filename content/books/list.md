@@ -1,3 +1,7 @@
+---
+title: "Book List"
+date: 2021-07-2
+---
 # Books, a cool thing
 This is a list of books I have read, am reading, or want to read, both fiction and not. My notes on some of these books will be linked next to them as I fill this out. Sadly this list is not exhaustive, but it may be at some point.
 ## To Read
