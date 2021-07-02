@@ -4,10 +4,10 @@ This is a list of books I have read, am reading, or want to read, both fiction a
 * **Pirate Cinema** by Cory Doctorow
 
 ## Current
-* **Because Internet** by [Gretchen McCulloch](https://gretchenmcculloch.com/)
-
+* [**BrainFacts Book, a primer on the brain and nervous system**](/thoughts/books/brainfacts) by BrainFacts.org
 ## Past
 ### 2021
+* **Because Internet** by [Gretchen McCulloch](https://gretchenmcculloch.com/)
 * **Humble Pi** by Matt Parker
 * **Context** by Cory Doctorow
 * **The Martian** by Andy Weir
