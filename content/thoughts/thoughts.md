@@ -4,6 +4,9 @@ These are random thoughts and/or notes on basically anything.
 ## Thoughts on the book I'm reading right now:
 [Brain Facts Book](/thoughts/books/brainfacts), by brainfacts.org
 
+## What I'm learning:
+[Psychology and neuroscience](psychologyneuroscience) is my special interest right now!
+
 ## Some links:
 * [Keyboards](keyboards), or me trying to convince myself to spend $100 on a bunch of buttons
 * [Politics](politics), a bunch of politics thoughts on government ability, and projects.

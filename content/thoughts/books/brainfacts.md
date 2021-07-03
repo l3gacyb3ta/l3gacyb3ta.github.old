@@ -55,4 +55,25 @@ Memories are encoded into the shape and number of synapses, as well as how many 
 The amygdala, insula and a part of the midbrain are most linked to emotion. The brain assigns good emotions to things that will promote better emotional advantages, and bad to things that wont. Emotional parts of the brain change over time, especially in teens, and this transitional period may explain why teens are more prone to risk.  
 To make good things worth your while, the brain can use rewards pathways like the dopamine one (Which iirc is one of the things that doesn't work as intended in ADHD suffering people). There are also dopamine inhibitors, which can be used for punishment. 
 
-## Current location: page 38
+## Thinking, Planning & Language
+The human brain has multiple filters in place to stop the constant noise from the world. If I remember correctly, this may be one of the parts of the brain that doesn't work well in autistic people (don't cite me on that lol).   
+Most short term memories are just loose approximations based on past memories. Sort of like how an AI can turn an image into a set of parameters it has learned. These rely on semantic memory, which I talked about earlier. Some _individual neurons_ may be responsible for specific people or things, these are called "concept neurons". If information is blocked to the regions where this happens, some senses may not be able to create associations to memories, leading to cases where the person knows what something is, but is not able to recognize it through whatever sense is impaired.  
+
+### Speech production and language
+The area of the brain called "Broca's area" is responsible for speech production, and if someone where to have it damaged then they would not be able to create language, but still understand it. That sounds like my worst nightmare. This is called non-fluent aphasias, where speech is not able to be made, but still understood. That's in contrast to fluent aphasias, where speech production is fully functional, but the produced words make no sense. There is another type of aphasias called "pure word deafness" which is caused by damage to the temporal lobe. People who suffer from this cannot understand speech at any level, but are not deaf. They can still process music and can even detect tone, emotion, and gender of the speaker, but they can't connect the sounds of words to their meanings. They can still understand written language however.  
+
+### Executive function & cognition
+These take place in the most complex part of the brain, the prefrontal cortex (PFC). The PFC controls the rest of brain functions. Executive function refers to the ability of the PFC to coordinate the rest of the brains function, like retrieving memories. Executive function has 3 main jobs:
+1. #### Inhibition:
+This is when your brain stops you from doing behavior that is inappropriate, toddlers develop this at an early stage, if only in small amounts. 
+2. #### Working Memory
+Working memory, which I have talked about earlier, is also managed by executive function. This is very important for focus and stuff like that, which is why ADHD makes it way harder to focus.
+3. #### Shifting
+Shifting is the ability to adapt to new conditions and/or plans. I am very aware of this, as I _hate_ having plan changes and have ADHD. 
+
+These all work together to be able to make decisions. 
+
+### Social Neuroscience
+Mentalizing is the process of "simulating" other people's thought processes in your mind. This is very important for social interaction and understanding others. This is the basis for empathy and "theory of mind," which is understanding why other people do things. 
+
+## Current page: 59
