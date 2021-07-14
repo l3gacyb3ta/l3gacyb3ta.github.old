@@ -1,5 +1,5 @@
 ---
-title: "XKCD Explainer Button"
+title: XKCD Explainer Button
 date: 2021-04-23
 ---
   

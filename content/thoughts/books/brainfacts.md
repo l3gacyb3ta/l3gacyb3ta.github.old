@@ -75,5 +75,3 @@ These all work together to be able to make decisions.
 
 ### Social Neuroscience
 Mentalizing is the process of "simulating" other people's thought processes in your mind. This is very important for social interaction and understanding others. This is the basis for empathy and "theory of mind," which is understanding why other people do things. 
-
-## Current page: 59
