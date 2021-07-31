@@ -7,6 +7,8 @@ This is a list of books I have read, am reading, or want to read, both fiction a
 ## To Read
 * **Pirate Cinema** by Cory Doctorow
 * **How Google Works** by Eric Schmidt and Jonathan Rosenberg
+* **GLOW** by Tim Jordan
+* **Blink** by [Malcom Gladwell](/thoughts/people/malcomgladwell)
 
 ## Current
 * **Snow Crash** by Neal Stephenson
@@ -30,3 +32,6 @@ This is a list of books I have read, am reading, or want to read, both fiction a
 * **Artemis** by Andy Weir
 * **Share or Die** by Malcom Harris
 * **Fahrenheit 451** by Ray Bradbury
+
+---
+Last updated: Jul 31st, 2021
