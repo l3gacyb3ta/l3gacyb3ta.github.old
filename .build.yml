@@ -1,0 +1,13 @@
+image: alpine/latest
+packages:
+  - hugo
+oauth: pages.sr.ht/PAGES:RW
+environment:
+  site: example.org
+tasks:
+- package: |
+    cd $site
+    hugo
+    tar -C public -cvz . > ../site.tar.gz
+- upload: |
+    acurl -f https://pages.sr.ht/publish/$site -Fcontent=@site.tar.gz
