@@ -6,11 +6,16 @@ date: 2021-07-2
 This is a list of books I have read, am reading, or want to read, both fiction and not. My notes on some of these books will be linked next to them as I fill this out. Sadly this list is not exhaustive, but it may be at some point.
 ## To Read
 * **Pirate Cinema** by Cory Doctorow
+* **How Google Works** by Eric Schmidt and Jonathan Rosenberg
 
 ## Current
-* [**BrainFacts Book, a primer on the brain and nervous system**](/thoughts/books/brainfacts) by BrainFacts.org
+* **Snow Crash** by Neal Stephenson
+
 ## Past
 ### 2021
+* **Version Zero** by David Yoon
+* **Project Hail Mary** by Andy Weir
+* [**BrainFacts Book, a primer on the brain and nervous system**](/thoughts/books/brainfacts) by BrainFacts.org
 * **Because Internet** by [Gretchen McCulloch](https://gretchenmcculloch.com/)
 * **Humble Pi** by Matt Parker
 * **Context** by Cory Doctorow
