@@ -44,6 +44,22 @@
     - name: Shell
       percent: 0.3
 
+- name: Montertheme
+  expand: false
+  short_desc: a theme for VS code inspired by macOS Monterey
+  links:
+    - link_name: sourcehut
+      link: https://sr.ht/~arcade/montertheme
+  desc:
+    A VS code theme inspired by macOS Monterey! I love the color pallet and now I can use it in my code editor! This was fun to learn about Azure DevOps and PATs, as well as the workflow for publishing extensions!
+  techlist:
+    - JavaScript
+    - Yarn
+    - Azure DevOps
+  lang_ratios:
+    - name: JavaScript
+      percent: 100
+
 - name: l3g
   expand: false
   short_desc: a productivity tool with speed in mind
@@ -58,3 +74,4 @@
   lang_ratios:
     - name: Crystal
       percent: 100
+
