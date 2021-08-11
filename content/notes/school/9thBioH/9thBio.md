@@ -1,10 +1,11 @@
 # 9th Comp/Lit H
 
+[Random notes + quotes](/notes/school/9thBioH/random)
 
 ## Current Projects:
-- [Slime Project](/notes/school/9thBioH/projects/SlimeProject)
+- None!
 
 ## Future projects:
 - [Literature Review](/notes/school/9thBioH/Projects/LitReview)
 ## Previous Notes:
-- Empty!
+- [Slime Project](/notes/school/9thBioH/projects/SlimeProject)
