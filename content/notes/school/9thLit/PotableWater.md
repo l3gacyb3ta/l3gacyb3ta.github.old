@@ -22,3 +22,29 @@ Empathy can be:
 Sympathy is staying away, empathy is feeling _with_ someone
 
 What makes something better is connection.
+
+## Interview with Srikar
+### How did your daily routine change during covid
+- School became virtual for 1 and half years
+- Normal school stuff
+- we couldnt go places
+- watch movies at home
+
+### What was it like going on vacation during to covid?
+- Went to lake leneer
+- Didnt know who had vaccine
+- Uncertainty
+- Lots of people
+- Slight fear
+
+### Empathy map
+
+|                                                                              |                                                                |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Says**                                                                     | **Thinks**                                                     |
+| A lot about his vacation and how he didnt know what other people were doing  | That covid was a hard and confusing time for many              |
+| **Does**                                                                     | **Feels**                                                      |
+| Slowly at first but slowly became more active, started using his hands more. | Happy and light-harted, with a bit of sadness at the situation |
+
+### Discussion
+He agrees with me!
